@@ -1,0 +1,7 @@
+data/
+backups/
+invoices/
+test/
+*.db
+*.pyc
+__pycache__/
